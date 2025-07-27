@@ -1,4 +1,4 @@
-assignment_7 is in 4 parts 
+-------------------------------assignment_7 is in 4 parts--------------------------
 
 ml_streamlit_app/
 ├── app.py                   # Main Streamlit app
@@ -7,3 +7,7 @@ ml_streamlit_app/
 ├── requirements.txt         # List of required Python packages
               
 (run accordingly while also changing the path)
+-----------------------------*--------------------------*--------------------------
+
+
+-----------------------------Untitled18 as Assignment_8----------------------------
